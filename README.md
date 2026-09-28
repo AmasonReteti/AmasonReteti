@@ -30,7 +30,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
 
 ☁️ My Vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
-💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Deployment & Cloudinary API**, **Payment Gateways**
+💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
