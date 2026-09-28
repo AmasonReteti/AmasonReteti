@@ -48,19 +48,23 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
       <p align="center"><strong>Engineering Core</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
+        <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/Shell_Script-1e2327?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/VB.NET-1e2327?style=flat-square&logo=dotnet&logoColor=512BD4" />
+        <br />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
-        <img src="https://img.shields.io/badge/Apache_Maven-1e2327?style=flat-square&logo=apachemaven&logoColor=C71A36" />
         <img src="https://img.shields.io/badge/Hibernate-1e2327?style=flat-square&logo=hibernate&logoColor=59666C" />
         <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Express-1e2327?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/Shell_Script-1e2327?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/VB.NET-1e2327?style=flat-square&logo=dotnet&logoColor=512BD4" />
-        <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/GraphQL-1e2327?style=flat-square&logo=graphql&logoColor=E10098" />
-        <img src="https://img.shields.io/badge/JWT-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=000000" />
-        <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
+        <img src="https://img.shields.io/badge/Apache_Maven-1e2327?style=flat-square&logo=apachemaven&logoColor=C71A36" />
+        <br />
+        <img src="https://img.shields.io/badge/Angular-1e2327?style=flat-square&logo=angular&logoColor=DD0031" />
+        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-1e2327?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+        <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+        <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
+        <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
         <br />
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
@@ -68,13 +72,11 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
         <br />
-        <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/Angular-1e2327?style=flat-square&logo=angular&logoColor=DD0031" />
-        <img src="https://img.shields.io/badge/React-1e2327?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-1e2327?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-        <img src="https://img.shields.io/badge/Bootstrap-1e2327?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-        <img src="https://img.shields.io/badge/HTML5-1e2327?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-1e2327?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/REST_API-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-1e2327?style=flat-square&logo=graphql&logoColor=E10098" />
+        <img src="https://img.shields.io/badge/JWT-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=000000" />
+        <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
       </p>
       <hr style="border: 0.1px solid #30363d;" />
       <p align="center"><strong>Environment & Design</strong></p>
