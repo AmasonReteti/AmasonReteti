@@ -69,6 +69,7 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
         <img src="https://img.shields.io/badge/Redis-1e2327?style=flat-square&logo=redis&logoColor=DC382D" />
+        <img src="https://img.shields.io/badge/Upstash-1e2327?style=flat-square&logo=upstash&logoColor=00E9A8" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
         <br />
@@ -88,11 +89,13 @@ A Full-Stack Software Engineer crafting scalable logic and high-performance dist
         <br />
         <img src="https://img.shields.io/badge/Vite-1e2327?style=flat-square&logo=vite&logoColor=646CFF" />
         <img src="https://img.shields.io/badge/Vercel-1e2327?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-1e2327?style=flat-square&logo=netlify&logoColor=00C7B7" />
         <img src="https://img.shields.io/badge/Render-1e2327?style=flat-square&logo=render&logoColor=46E3B7" />
         <img src="https://img.shields.io/badge/Supabase-1e2327?style=flat-square&logo=supabase&logoColor=3FCF8E" />
         <br />
         <img src="https://img.shields.io/badge/VS_Code-1e2327?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/NetBeans-1e2327?style=flat-square&logo=apache-netbeans&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notepad++-1e2327?style=flat-square&logo=notepad%2B%2B&logoColor=90E500" />
         <img src="https://img.shields.io/badge/Postman-1e2327?style=flat-square&logo=postman&logoColor=FF6C37" />
         <br />
         <img src="https://img.shields.io/badge/UI_&_UX-1e2327?style=flat-square&logo=figma&logoColor=FF7262" />
@@ -129,3 +132,4 @@ on
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
