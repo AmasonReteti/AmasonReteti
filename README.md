@@ -19,10 +19,6 @@
 
 # Human Behind The Code
 
-</div>
-
-A Full-Stack Software Engineer architecting end-to-end solutions, seamlessly integrating scalable backend infrastructure, modern APIs, and engaging user-facing applications.
-
 🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **Django**, **NextJs**, **VueJS**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
