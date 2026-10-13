@@ -17,7 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmasonReteti/AmasonReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-# I study codes
+# I study codes, Pixels Meet Purpose
 
 </div>
 
