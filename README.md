@@ -17,7 +17,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmasonReteti/AmasonReteti/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1>Human Behind The Code</h1>
+<br />
+
+# Human Behind The Code
 
 </div>
 
@@ -29,10 +31,8 @@
 
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p style="font-size: 1.5em; font-weight: bold; display: inline-flex; align-items: center; margin-bottom: 10px;">Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-left: 8px;"></p>
+## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp;
 
 <div align="center">
 
@@ -110,18 +110,14 @@
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS**, focusing on **Cloud-Native resilience** and **security**.
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p style="font-size: 1.5em; font-weight: bold; display: inline-flex; align-items: center; margin-bottom: 10px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 8px;"> Statistics</p>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;Statistics
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-<p style="font-size: 1.5em; font-weight: bold;">Contact</p>
-
+## Contact
 Feel free to reach me out
 
 on
