@@ -121,7 +121,7 @@ A Full-Stack Software Engineer architecting end-to-end solutions, seamlessly int
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-## <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> Contact </h2>
+## <h2> Contact </h2>
 Feel free to reach me out
 
 on
