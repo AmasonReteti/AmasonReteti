@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1 style="border-bottom: none; font-size: 2em; font-weight: 800; white-space: nowrap; margin-bottom: 0;">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</h1>
+  <p style="font-size: 2em; font-weight: 800; white-space: nowrap; margin-bottom: 0;">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</p>
 </div>
 
 <div style="padding: 15px 0;">
@@ -19,7 +19,7 @@
 
 <br />
 
-<h1 style="border-bottom: none; font-size: 2.2em; font-weight: 800; margin-top: 15px;">Human Behind The Code</h1>
+<p style="font-size: 2.2em; font-weight: 800; margin-top: 15px; margin-bottom: 15px;">Human Behind The Code</p>
 
 </div>
 
@@ -32,7 +32,7 @@
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
 
-<h2 style="border-bottom: none; font-size: 1.8em; font-weight: 800; display: flex; align-items: center; margin-top: 25px;">Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-left: 8px;"></h2>
+<p style="font-size: 1.8em; font-weight: 800; display: flex; align-items: center; margin-top: 25px; margin-bottom: 15px;">Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-left: 8px;"></p>
 
 <div align="center">
 
@@ -110,14 +110,14 @@
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
 
-<h2 style="border-bottom: none; font-size: 1.8em; font-weight: 800; display: flex; align-items: center; margin-top: 25px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 8px;"> Statistics</h2>
+<p style="font-size: 1.8em; font-weight: 800; display: flex; align-items: center; margin-top: 25px; margin-bottom: 15px;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 8px;"> Statistics</p>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-<h2 style="border-bottom: none; font-size: 1.8em; font-weight: 800; margin-top: 25px;">Contact</h2>
+<p style="font-size: 1.8em; font-weight: 800; margin-top: 25px; margin-bottom: 15px;">Contact</p>
 
 Feel free to reach me out
 
