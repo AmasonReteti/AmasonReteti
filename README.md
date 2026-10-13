@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1 style="white-space: nowrap; border-bottom: none;">        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</h1>
+  <p style="font-size: 2em; font-weight: bold; white-space: nowrap; margin: 10px 0;">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</p>
 </div>
 
 <div style="padding: 15px 0;">
@@ -19,7 +19,7 @@
 
 <br />
 
-<h1 style="border-bottom: none; font-weight: bold;">Human Behind The Code</h1>
+<p style="font-size: 2em; font-weight: bold; margin: 15px 0;">Human Behind The Code</p>
 
 </div>
 
@@ -32,7 +32,7 @@
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
 
-<h2 style="border-bottom: none; font-weight: bold; display: flex; align-items: center;">Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-left: 8px;"></h2>
+<p style="font-size: 1.5em; font-weight: bold; margin: 20px 0 10px 0;">Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: middle;"></p>
 
 <div align="center">
 
@@ -76,8 +76,7 @@
         <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
         <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
       </p>
-      <br />
-      <p align="center"><strong>Environment & Design</strong></p>
+      <p align="center" style="margin-top: 25px;"><strong>Environment & Design</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Git-1e2327?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/GitHub-1e2327?style=flat-square&logo=github&logoColor=white" />
@@ -111,14 +110,14 @@
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
 
-<h2 style="border-bottom: none; font-weight: bold; display: flex; align-items: center;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 8px;"> Statistics</h2>
+<p style="font-size: 1.5em; font-weight: bold; margin: 20px 0 10px 0;"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle; margin-right: 5px;"> Statistics</p>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-<h2 style="border-bottom: none; font-weight: bold;">Contact</h2>
+<p style="font-size: 1.5em; font-weight: bold; margin: 20px 0 10px 0;">Contact</p>
 
 Feel free to reach me out
 
