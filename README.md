@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- h3: no gray line, same size as all other headings -->
-  <h2 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h2>
+  <h1 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h1>
 </div>
 
 <div style="padding: 15px 0;">
@@ -21,7 +21,7 @@
 <br />
 
 <!-- h3: no gray line, same size as all other headings -->
-<h3 align="center"><b>Human Behind The Code</b></h3>
+<h3 align="center"><b>The same way our elders studied stars, I study codes</b></h3>
 
 </div>
 
