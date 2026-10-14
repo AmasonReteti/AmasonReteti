@@ -2,9 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <h1 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h1>
-</div>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">
+        Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka 
+      </h1><br />
 
 <div style="padding: 15px 0;">
   <h4>Have a quick look at this <a href="https://drive.google.com/file/d/1NGHUJIzSuZ7JBPO4g8Hhc_anTn3DzjUu/view?usp=drivesdk" target="_blank">resume</a> for more info.</h4>
