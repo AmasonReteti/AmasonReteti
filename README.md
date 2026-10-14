@@ -19,7 +19,15 @@
 
 <br />
 
-<h3 align="center"><b>Human Behind The Code</b></h3>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Human behind The code</h2></summary>
+  </ul>
+  </div>
 
 </div>
 
