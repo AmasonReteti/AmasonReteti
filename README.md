@@ -38,7 +38,7 @@
 <a href="https://wa.me/254758791006"><img height="24" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
-<h3><b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">&nbsp;</h3>
+<h2><b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">&nbsp;</h2>
 
 <div align="center">
 
@@ -116,10 +116,11 @@
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h3>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h2>
 
 <!-- Both cards use the same width and no fixed height, so they stay the same size -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
