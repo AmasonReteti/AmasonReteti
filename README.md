@@ -34,7 +34,7 @@
 
 </div>
 
-🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **Django**, **NextJs**, **VueJS**, **NestJS** and **Typescript**.
+🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **Django**, **NextJs**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
