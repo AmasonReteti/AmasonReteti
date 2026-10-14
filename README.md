@@ -1,5 +1,4 @@
-<div align="center">
-
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -13,6 +12,11 @@
   <h4>Have a quick look at this <a href="https://drive.google.com/file/d/1NGHUJIzSuZ7JBPO4g8Hhc_anTn3DzjUu/view?usp=drivesdk" target="_blank">resume</a> for more info.</h4>
   
 </div>
+    </summary>
+  </ul>
+</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmasonReteti/AmasonReteti/output/github-contribution-grid-snake-dark.svg">
@@ -30,10 +34,10 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Human behind The code</h2></summary>
   </ul>
-  </div>
-
 </div>
 
+
+<!--Intro start-->
 🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **Django**, **NextJs**, **NestJS** and **Typescript**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
@@ -47,7 +51,32 @@
 <a href="mailto:lerionkareteti@gmail.com"><img height="24" align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img height="24" align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"><img height="24" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<!--Intro end-->
 
+<!--
+**kodiworm/kodiworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<!--- github stats (start) -->
+### Here's my github stats:
+
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=radical) 
+<!--- ![![GitHub Streak](https://streak-stats.demolab.com/?user=malindijohn&theme=radical)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-rust-tau-59.vercel.app?user=AmasonReteti&theme=radical)](https://git.io/streak-stats)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmasonReteti&hide_progress=true&thme=radical) -->
+<!--- stats (end) -->
 
 
 <!--- Tech Stack (start) -->
@@ -127,13 +156,8 @@
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS**, focusing on **Cloud-Native resilience** and **security**.
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
+<!--- Tech Stack (end) -->
 
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h3>
-
-<!-- Both cards use the same width and no fixed height, so they stay the same size -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
-</div>
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
