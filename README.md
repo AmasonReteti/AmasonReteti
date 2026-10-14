@@ -9,7 +9,7 @@
         Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka 
       </h1><br />
 <div style="padding: 15px 0;">
-  <h4>Have a quick look at this <a href="https://drive.google.com/file/d/1NGHUJIzSuZ7JBPO4g8Hhc_anTn3DzjUu/view?usp=drivesdk" target="_blank">resume</a> for more info.</h4>
+  <h4>Have a quick look at this <a href="https://drive.google.com/file/d/1lRn2ngLO5VzBM1mEZf-a-NCaxETGCQGH/view?usp=drivesdk" target="_blank">resume</a> for more info.</h4>
   
 </div>
     </summary>
