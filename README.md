@@ -72,10 +72,24 @@ Here are some ideas to get you started:
 <!--- github stats (start) -->
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=radical) 
-<!--- ![![GitHub Streak](https://streak-stats.demolab.com/?user=malindijohn&theme=radical)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats-rust-tau-59.vercel.app?user=AmasonReteti&theme=radical)](https://git.io/streak-stats)
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmasonReteti&hide_progress=true&thme=radical) -->
+
+
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=radical)
+
+ 
+
+<!--- 
+
+![![GitHub Streak](https://streak-stats.demolab.com/?user=malindijohn&theme=radical)
+
+](https://git.io/streak-stats) -->
+<!-- streak card fixed: working demolab URL, width matched to the stats card above -->
+[<img src="https://streak-stats.demolab.com/?user=AmasonReteti&theme=radical" alt="GitHub Streak" width="495" />](https://git.io/streak-stats)
+<!--- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmasonReteti&hide_progress=true&thme=radical)
+
+ -->
 <!--- stats (end) -->
 
 
