@@ -3,8 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <!-- Big heading, h2 size like Malindi's title -->
-  <h2 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h2>
+  <h1 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h1>
 </div>
 
 <div style="padding: 15px 0;">
