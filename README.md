@@ -93,7 +93,6 @@
         <img src="https://img.shields.io/badge/GraphQL-1e2327?style=flat-square&logo=graphql&logoColor=E10098" />
         <img src="https://img.shields.io/badge/JWT-1e2327?style=flat-square&logo=jsonwebtokens&logoColor=000000" />
         <img src="https://img.shields.io/badge/JSON-1e2327?style=flat-square&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/JUnit5-1e2327?style=flat-square&logo=junit5&logoColor=25A162" />
       </p>
       <p align="center" style="margin-top: 25px;"><strong>Environment & Design</strong></p>
       <p align="center">
