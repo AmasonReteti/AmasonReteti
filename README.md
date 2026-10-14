@@ -31,11 +31,11 @@
 
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
-<!-- Contact: mail icon from Iconify, sized 22px to match the text -->
-<img src="https://api.iconify.design/mdi:email.svg?color=%23D14836" height="22" align="center" alt="Contact" /> Feel free to reach me out on
-<a href="mailto:lerionkareteti@gmail.com"><img height="28" align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img height="28" align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/254758791006"><img height="28" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<!-- Contact: handshake emoji, distinct from the other lines -->
+🤝 Feel free to reach me out on
+<a href="mailto:lerionkareteti@gmail.com"><img height="24" align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img height="24" align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254758791006"><img height="24" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 <h3><b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">&nbsp;</h3>
