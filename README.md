@@ -19,7 +19,7 @@
 
 <br />
 
-<h2 align="center"><b>Human Behind The Code</b></h2>
+<h3 align="center"><b>Human Behind The Code</b></h3>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 
 <!--- Tech Stack (start) -->
-## &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h2>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h3>
 
 <!-- Both cards use the same width and no fixed height, so they stay the same size -->
 <div align="center">
