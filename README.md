@@ -38,6 +38,7 @@
 <a href="https://wa.me/254758791006"><img height="24" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
+
 <!--- Tech Stack (start) -->
 ## &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -115,6 +116,7 @@
 * **DevOps:** I plan to master **Docker**, **Kubernetes**, **Terraform for IaC**, **containerization**, and **CI/CD Pipelines** to bridge the gap between development and automated infrastructure.
 * **Cloud Architecture:** I am planning to design scalable, distributed environments on **AWS**, focusing on **Cloud-Native resilience** and **security**.
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
+
 
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h2>
