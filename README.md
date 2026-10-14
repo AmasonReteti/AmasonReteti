@@ -3,7 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h1>
+  <!-- Changed h1 to h3 so GitHub does not draw the gray line -->
+  <h3 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h3>
 </div>
 
 <div style="padding: 15px 0;">
@@ -19,7 +20,8 @@
 
 <br />
 
-<h1 align="center"><b>Human Behind The Code</b></h1>
+<!-- Changed h1 to h3 to remove the gray line -->
+<h3 align="center"><b>Human Behind The Code</b></h3>
 
 </div>
 
@@ -32,6 +34,7 @@
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
 
+<!-- Kept as h2 on purpose: this is the one gray line you wanted to keep -->
 <h2><b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">&nbsp;</h2>
 
 <div align="center">
@@ -110,14 +113,16 @@
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h2>
+<!-- Changed h2 to h3 to remove the gray line -->
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h3>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
 </div>
 
-<h2><b>Contact</b></h2>
+<!-- Changed h2 to h3 to remove the gray line -->
+<h3><b>Contact</b></h3>
 
 Feel free to reach me out
 
