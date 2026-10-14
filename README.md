@@ -31,9 +31,8 @@
 
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
-<!-- Contact: all three badges use the same style and the same height (28), aligned on one line -->
-<!-- Contact: a real mail icon (22px tall, aligned with the text) instead of the emoji -->
-<img src="https://img.icons8.com/color/48/mail.png" height="22" align="center" alt="Contact" /> Feel free to reach me out on
+<!-- Contact: mail icon from Iconify, sized 22px to match the text -->
+<img src="https://api.iconify.design/mdi:email.svg?color=%23D14836" height="22" align="center" alt="Contact" /> Feel free to reach me out on
 <a href="mailto:lerionkareteti@gmail.com"><img height="28" align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img height="28" align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/254758791006"><img height="28" align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
