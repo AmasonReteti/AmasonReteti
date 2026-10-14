@@ -21,7 +21,7 @@
 <br />
 
 <!-- h3: no gray line, same size as all other headings -->
-<h3 align="center"><b>The same way our elders studied stars, I study codes</b></h3>
+<h2 align="center"><b>Human Behind The Code</b></h2>
 
 </div>
 
