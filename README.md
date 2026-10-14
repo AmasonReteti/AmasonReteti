@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- h3: no gray line, same size as all other headings -->
-  <h3 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h3>
+  <h2 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h2>
 </div>
 
 <div style="padding: 15px 0;">
