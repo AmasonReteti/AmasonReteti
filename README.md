@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <!-- h3: no gray line, same size as all other headings -->
   <h1 align="center"><b>Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Lerionka</b></h1>
 </div>
 
@@ -20,7 +19,6 @@
 
 <br />
 
-<!-- h3: no gray line, same size as all other headings -->
 <h2 align="center"><b>Human Behind The Code</b></h2>
 
 </div>
@@ -33,8 +31,13 @@
 
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
 
+<!-- Contact moved here as a statement, same style as the lines above -->
+📫 Feel free to reach me out on
+<a href="mailto:lerionkareteti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or
+<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> or
+<a href="https://wa.me/254758791006"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
 
-<!-- h3: no gray line, same size as all other headings -->
+
 <h3><b>Tech Stack</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">&nbsp;</h3>
 
 <div align="center">
@@ -113,23 +116,10 @@
 * **AI & ML:** I have a keen interest in **AI**, so I'm learning to deploy **Machine Learning models** and **Intelligent APIs** into **modern Full-Stack applications**.
 
 
-<!-- h3: no gray line, same size as all other headings -->
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp;<b>Statistics</b></h3>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="170" />
+<!-- Both cards use the same width and no fixed height, so they stay the same size -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AmasonReteti&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmasonReteti&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
-
-<!-- h3: no gray line, same size as all other headings -->
-<h3><b>Contact</b></h3>
-
-Feel free to reach me out
-
-on
-
-<p align="left">
-<a href="mailto:lerionkareteti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> or
-<a href="https://www.linkedin.com/in/amason-reteti-b465a1361"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/254758791006"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
