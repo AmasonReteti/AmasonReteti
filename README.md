@@ -44,8 +44,6 @@
 
 💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment**
 
- ☁️ My Vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
- 
 <!-- Contact: handshake emoji, distinct from the other lines -->
 🤝 Feel free to reach me out on
 <a href="mailto:lerionkareteti@gmail.com"><img height="24" align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
