@@ -38,7 +38,7 @@
 
 
 <!--Intro start-->
-🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **Django**, **NextJs**, **Vue**, **NestJS** and **Typescript**.
+🔭 I'm currently working on **MongoDB**, **Prisma**, **Flutter in Dart**, **PWA**, **SEO**, **NextJs**, **Vue**, and **NestJS**.
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
@@ -107,10 +107,13 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Java-1e2327?style=flat-square&logo=openjdk&logoColor=007396" />
         <img src="https://img.shields.io/badge/Python-1e2327?style=flat-square&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/JavaScript-1e2327?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/TypeScript-1e2327?style=flat-square&logo=typescript&logoColor=3178C6" />
         <img src="https://img.shields.io/badge/Shell_Script-1e2327?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/VB.NET-1e2327?style=flat-square&logo=dotnet&logoColor=512BD4" />
         <br />
         <img src="https://img.shields.io/badge/Spring_Boot-1e2327?style=flat-square&logo=springboot&logoColor=6DB33F" />
+        <img src="https://img.shields.io/badge/Django-1e2327?style=flat-square&logo=django&logoColor=092E20" />
+        <img src="https://img.shields.io/badge/Django_REST-1e2327?style=flat-square&logo=django&logoColor=ff1709" />
         <img src="https://img.shields.io/badge/Hibernate-1e2327?style=flat-square&logo=hibernate&logoColor=59666C" />
         <img src="https://img.shields.io/badge/Node.js-1e2327?style=flat-square&logo=nodedotjs&logoColor=339933" />
         <img src="https://img.shields.io/badge/Express-1e2327?style=flat-square&logo=express&logoColor=white" />
@@ -126,7 +129,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/PostgreSQL-1e2327?style=flat-square&logo=postgresql&logoColor=4169E1" />
         <img src="https://img.shields.io/badge/SQL_Server-1e2327?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
         <img src="https://img.shields.io/badge/Redis-1e2327?style=flat-square&logo=redis&logoColor=DC382D" />
-        <img src="https://img.shields.io/badge/Upstash-1e2327?style=flat-square&logo=upstash&logoColor=00E9A8" />
         <img src="https://img.shields.io/badge/NumPy-1e2327?style=flat-square&logo=numpy&logoColor=013243" />
         <img src="https://img.shields.io/badge/Pandas-1e2327?style=flat-square&logo=pandas&logoColor=white" />
         <br />
@@ -142,6 +144,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Linux-1e2327?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/Termux-1e2327?style=flat-square&logo=termux&logoColor=white" />
         <br />
+        <img src="https://img.shields.io/badge/Upstash-1e2327?style=flat-square&logo=upstash&logoColor=00E9A8" />
         <img src="https://img.shields.io/badge/Vite-1e2327?style=flat-square&logo=vite&logoColor=646CFF" />
         <img src="https://img.shields.io/badge/Vercel-1e2327?style=flat-square&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Netlify-1e2327?style=flat-square&logo=netlify&logoColor=00C7B7" />
