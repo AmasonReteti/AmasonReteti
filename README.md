@@ -42,7 +42,7 @@
 
 🌱 I’m currently learning **Advanced database management**, **Microservices for Scalable Applications**.
 
-💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment**
+💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Integration**, **Deployment**
 
 <!-- Contact: handshake emoji, distinct from the other lines -->
 🤝 Feel free to reach me out on
