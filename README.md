@@ -44,7 +44,7 @@
 
 ☁️ My Vision is Bridging **Software Engineering** with **DevOps** and **Cloud Architecture**.
 
-💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment & Cloudinary API**
+💬 Ask me about **Spring Boot**, **SQL**, **NoSQL**, **GraphQL**, **REST API**, **JWT**, **Monoliths**, **Payment Gateways**, **Deployment**
 
 <!-- Contact: handshake emoji, distinct from the other lines -->
 🤝 Feel free to reach me out on
