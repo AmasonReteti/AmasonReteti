@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ](https://git.io/streak-stats) -->
 <!-- streak card fixed: working demolab URL, width matched to the stats card above -->
-[<img src=https://streak-stats.demolab.com/?user=AmasonReteti&theme=radical" alt="GitHub Streak" width="495" />](https://git.io/streak-stats)
+[<img alt="GitHub Streak" width="495" />](https://git.io/streak-stats)
 <!--- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmasonReteti&hide_progress=true&thme=radical)
